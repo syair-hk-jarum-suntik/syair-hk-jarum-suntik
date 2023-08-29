@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://syair-hk-jarum-suntik.github.io/sitemap.xml
